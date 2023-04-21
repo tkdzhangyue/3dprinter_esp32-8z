@@ -1,4 +1,6 @@
 # 3Dprinter_esp32-8z_tmc2226
+<img src="https://github.com/tkdzhangyue/3dprinter_esp32-8z/blob/main/pic/printer.jpg">
+
 ## B站视频:
     1. 待更新
     2. 待
